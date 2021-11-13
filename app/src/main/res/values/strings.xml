@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntentAgain</string>
+    <string name="move_activity">KLIK LEWATI</string>
+    <string name="move_with_data">LEWATI, UNTUK LIHAT DATA</string>
+    <string name="dial_number">PANGGIL TELEPON</string>
+    <string name="move_with_result">PINDAH AKTIVITI DENGAN RESULT</string>
+    <string name="result_from_activity">HASIL DARI AKTIVITI</string>
+    <string name="choose_color">PILIH WARNAMU</string>
+    <string name="blue">BIRU AREMA</string>
+    <string name="red">MERAH PERSIJA</string>
+    <string name="green">HIJAU PERSEBAYA</string>
+    <string name="choose">PILIH</string>
+    <string name="data_received">DATA DITERIMA</string>
+    <string name="this_ismove_activity">INI PINDAH AKTIVITI</string>
+    <string name="this_isback_to_activity">BACK</string>
+</resources>
